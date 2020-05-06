@@ -1,0 +1,3 @@
+export default {
+    DELETE_TRANSACTION: "DELETE_TRANSACTION",
+}
